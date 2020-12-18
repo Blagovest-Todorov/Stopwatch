@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\bin\Release\netcoreapp3.1\Stopwatch.exe
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\bin\Release\netcoreapp3.1\Stopwatch.deps.json
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\bin\Release\netcoreapp3.1\Stopwatch.runtimeconfig.json
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\bin\Release\netcoreapp3.1\Stopwatch.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\bin\Release\netcoreapp3.1\Stopwatch.dll
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\bin\Release\netcoreapp3.1\Stopwatch.pdb
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\obj\Release\netcoreapp3.1\Stopwatch.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\obj\Release\netcoreapp3.1\Stopwatch.AssemblyInfo.cs
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\obj\Release\netcoreapp3.1\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\obj\Release\netcoreapp3.1\Stopwatch.dll
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\obj\Release\netcoreapp3.1\Stopwatch.pdb
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\obj\Release\netcoreapp3.1\Stopwatch.genruntimeconfig.cache
+C:\Users\Bla\source\repos\QualityProgramingCode\Stopwatch\obj\Release\netcoreapp3.1\Stopwatch.csprojAssemblyReference.cache
